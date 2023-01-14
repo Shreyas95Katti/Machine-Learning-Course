@@ -26,6 +26,4 @@ The major take away from this project is: Machine Learning is only 5 steps
 
 5)Apply for new data
 
-Data Visualization explained: https://github.com/Shreyas95Katti/Iris_Data_Visualization-Project
-
 Dataset: https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset
